@@ -1,0 +1,19 @@
+EUR/USD 1,09813. O que cada número quer dizer?
+
+- EUR é a moeda base, a que você compra ou vende. USD é a moeda de cotação.
+- 1,09813 é quantos dólares valem 1 euro.
+- 1 pip é a quarta casa decimal (0,0001). Com iene, o pip é a segunda casa (0,01).
+- Um lote padrão são 100.000 unidades. No EUR/USD, cada pip vale US$ 10. Em 0,10 lote vale US$ 1. Em 0,01 vale US$ 0,10.
+- Spread é a diferença entre o preço de compra e o de venda. É custo.
+
+Exemplo com candles reais do EUR/USD: 0,56 lote, stop de 17,8 pips, risco de US$ 100. Um pip de spread custaria US$ 5,62, ou 5,6% do risco. Num stop de 89,2 pips, o mesmo spread pesaria 1,1%.
+
+O spread de 1 pip é hipotético: o real varia por corretora, par e horário.
+
+Salve este post. No próximo: alavancagem.
+
+Fonte: TradingView, cotações de 20/11/2026.
+
+Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
+
+#forex #pip #lote #spread #trading

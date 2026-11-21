@@ -1,0 +1,20 @@
+O EUR/USD se mexe mais de 3 vezes às 11h do que à 1h da manhã (horário de Brasília).
+
+Medi a amplitude média de cada hora, em pips, em cerca de 1.000 dias úteis:
+- Pico do EUR/USD às 11h: 22,4 pips por hora. Mínimo à 1h: 7,2 pips.
+- Das 09h às 13h, na sobreposição de Londres e Nova York, passam 27,3% do movimento do dia, em 4 das 24 horas.
+- No USD/JPY, 29,6% do movimento está na sessão asiática (21h às 04h). No EUR/USD, 21,8%.
+
+Cada par tem o seu relógio. E o horário de verão no exterior desloca o pico em cerca de uma hora.
+
+Antes de operar, confira se o seu alvo cabe na hora em que você opera. Entre 09h e 12h, o EUR/USD anda em média 21 pips por hora.
+
+Salve este post e confira o horário em que você opera.
+
+Metodologia: máxima menos mínima de cada candle de 1 hora, média por hora do dia, UTC convertido para Brasília (UTC−3). A amostra mistura períodos com e sem horário de verão no exterior. Amplitude não é volume nem spread.
+
+Fonte: TradingView.
+
+Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
+
+#forex #sessoesdemercado #eurusd #usdjpy #trading

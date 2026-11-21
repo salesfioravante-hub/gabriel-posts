@@ -1,0 +1,6 @@
+id,data,hora_brt,formato,pasta,tema,status
+e1,2026-11-21,20:00,carrossel,e1,O que e o mercado de forex (teste),agendado
+e2,2026-11-24,19:30,carrossel,e2,O que saber antes de operar forex,aguardando_aprovacao
+e3,2026-11-26,19:30,carrossel,e3,Como ler uma cotacao,aguardando_aprovacao
+e4,2026-12-01,19:30,carrossel,e4,Alavancagem,aguardando_aprovacao
+e5,2026-12-03,19:30,carrossel,e5,Sessoes de mercado,aguardando_aprovacao

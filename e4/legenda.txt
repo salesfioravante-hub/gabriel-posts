@@ -1,0 +1,20 @@
+Em 26,5% das semanas desde 2019, o EUR/USD andou 1% contra uma posição aberta na abertura da semana.
+
+Com alavancagem de 1:100 usada ao máximo, 1% de movimento contra você zera a conta. Com 1:30, são 3,3%. Com 1:10, 10%.
+
+Medi no EUR/USD desde 01/01/2019:
+- Movimento de 1% contra a posição: 3,8% dos dias, 26,5% das semanas e 56,5% dos meses.
+- Movimento de 3,3%: 0% dos dias, 0,7% das semanas e 10,8% dos meses.
+- Movimento de 10%: nenhum período.
+
+Alavancagem alta não é obrigação. Quem decide a alavancagem real é o seu stop: com 1% de risco e stop de 17,8 pips, o lote é 0,56 e a alavancagem efetiva numa conta de US$ 10.000 é de 6,3:1.
+
+Alavancagem multiplica os dois lados. Salve este post. No próximo: quando o forex se move.
+
+Metodologia no penúltimo slide: distância da abertura do período até a mínima (compra) e até a máxima (venda), média das duas. A corretora costuma fechar posições antes da conta zerar (stop out), e outros pares e épocas dão outros números.
+
+Fonte: TradingView.
+
+Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
+
+#forex #alavancagem #gestaoderisco #trading #mercadofinanceiro

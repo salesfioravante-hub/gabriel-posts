@@ -1,0 +1,20 @@
+Entre 74% e 89% das contas de varejo perdiam dinheiro em CFDs, segundo uma análise da ESMA, o regulador europeu, em 2018.
+
+É um dado da Europa e de 2018, e não mede o seu resultado. Mas é o ponto de partida honesto de qualquer conversa sobre forex.
+
+Seis coisas para checar antes de abrir a primeira operação:
+
+- Risco por operação: com 1%, sete perdas seguidas custam 6,8% da conta. Com 5%, custam 30,2%.
+- Alavancagem: no EUR/USD, em 26,5% das semanas desde 2019 o preço andou 1% contra uma posição aberta.
+- Custos: 1 pip de spread consome 5,6% do risco de um trade com stop de 17,8 pips (exemplo).
+- Corretora regulada: confira a licença no site do regulador e teste um saque pequeno.
+- Conta demo: serve para testar o seu processo, não para provar lucro.
+- Plano escrito: entrada, stop, alvo e tamanho da posição.
+
+Salve este post e releia antes de abrir a conta. No próximo: como ler uma cotação.
+
+Fontes: ESMA (2018) para os percentuais de contas e a perda média por cliente. Cálculos de risco e de alavancagem: nossos, com dados do TradingView.
+
+Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
+
+#forex #gestaoderisco #trading #iniciantes #educacaofinanceira
