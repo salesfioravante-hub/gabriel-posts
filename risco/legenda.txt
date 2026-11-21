@@ -1,0 +1,15 @@
+Com 50% de acerto, 5 perdas seguidas aparecem em 81% das sequências de 100 operações. Com 7 perdas seguidas, em 32%.
+
+É conta exata, sem custos. A pergunta que importa não é se a sequência de perdas vem, é quanto a sua conta aguenta quando ela vier.
+
+Com risco de 1% por operação, 7 perdas seguidas custam 6,8% da conta e você precisa de 7,3% para voltar. Com 5% por operação, custam 30,2% e a recuperação exige 43,2%.
+
+Por isso o lote sai do stop, não o contrário. Exemplo didático no EUR/USD: conta de US$ 10.000, risco de 1% (US$ 100) e stop de 17,8 pips dão um lote de 0,56. Com um stop maior, o lote cai.
+
+E o acerto mínimo depende do alvo: 50% com alvo de 1:1, 40% com 1:1,5, 33% com 1:2 e 25% com 1:3, antes de custos.
+
+Salve este post e calcule o lote do seu próximo trade antes de abrir a posição. Me diga nos comentários qual tema de risco você quer ver na sequência.
+
+O exemplo é didático e usa candles reais. Não é recomendação. Conteúdo educacional. Operar cripto e forex envolve risco de perda total do capital.
+
+#gestaoderisco #forex #trading #tradingbrasil #riscoretorno

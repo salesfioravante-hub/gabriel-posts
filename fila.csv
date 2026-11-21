@@ -1,6 +1,14 @@
-id,data,hora_brt,formato,pasta,tema,status
-e1,2026-11-21,20:00,carrossel,e1,O que e o mercado de forex (teste),agendado
-e2,2026-11-24,19:30,carrossel,e2,O que saber antes de operar forex,aguardando_aprovacao
-e3,2026-11-26,19:30,carrossel,e3,Como ler uma cotacao,aguardando_aprovacao
-e4,2026-12-01,19:30,carrossel,e4,Alavancagem,aguardando_aprovacao
-e5,2026-12-03,19:30,carrossel,e5,Sessoes de mercado,aguardando_aprovacao
+id,data,hora_brt,formato,pasta,status,nota
+e1,2026-11-21,20:00,carrossel,e1,publicar,teste de hoje
+e2,2026-11-24,19:30,carrossel,e2,agendar,
+reel1,2026-11-26,19:30,reel,reels/reel1,aguarda voz,"sem voz até 26/11 17h, entra reserva"
+e3,2026-12-01,19:30,carrossel,e3,atualizar cotação,troque a cotação de 20/11
+reel3-payroll,2026-12-03,19:30,reel,reels/reel3-payroll,aguarda voz,payroll sai 04/12
+cal-eco,2026-12-08,19:30,carrossel,cal-eco,agendar,
+reel5-fed,2026-12-09,11:00,reel,reels/reel5-fed,aguarda voz,Fed decide às 16h
+e4,2026-12-15,19:30,carrossel,e4,agendar,
+reel6-alavancagem,2026-12-17,19:30,reel,reels/reel6-alavancagem,aguarda voz,
+risco,2026-12-22,19:30,carrossel,risco,agendar,
+reel-calendario,2026-12-24,19:30,reel,reels/reel-calendario,aguarda voz,
+e5,2026-12-29,19:30,carrossel,e5,agendar,
+reel2-relogio,2026-12-31,19:30,reel,reels/reel2-relogio,aguarda voz,

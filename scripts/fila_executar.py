@@ -39,6 +39,10 @@ if simular:
         except Exception as e: print(u,'HEAD falhou (pode ser so o proxy local):',e)
     sys.exit()
 if pid in log: sys.exit(f'{pid} ja publicado: {log[pid]}')
+# trava 2: se o container foi recriado e o log sumiu, confere a legenda nas ultimas midias da conta
+rec=call('GET',IG+'/media',{'fields':'caption,permalink,timestamp','limit':'10'}).get('data',[])
+for m in rec:
+    if (m.get('caption') or '')[:80]==leg[:80]: sys.exit(f'{pid} ja esta no perfil: {m.get("permalink")}')
 assert 2<=len(urls)<=10
 filhos=[]
 for u in urls:
