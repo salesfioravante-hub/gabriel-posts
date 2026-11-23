@@ -9,13 +9,13 @@ O que a Tickmill pede para resgatar, no mês corrente, operando pelo TradingView
 - Vale para forex, metais, BTC, US30, DE40 e USTEC (índices contam 0,25 lote por lote). MT4 e MT5 não contam
 - Resgate na Área do Cliente antes de o mês acabar e ative em até 30 dias. A oferta recomeça todo mês e não renova sozinha
 
-Fiz a conta com risco de 1% e stop de 17,8 pips: numa conta de US$ 10.000, são 6, 9 e 22 trades no mês para chegar a 3, 5 e 12 lotes. Com US$ 1.000, o Premium pede 214. Não aumente o lote para bater a meta: spread e comissão do volume extra são custo.
+Fiz a conta para uma conta de US$ 500, com risco de 1% (US$ 5) e stop de 17,8 pips, que dá um lote de 0,028: são 107, 178 e 428 trades no mês para chegar a 3, 5 e 12 lotes. Numa conta pequena, a meta já pesa. Não aumente o lote para bater a meta: spread e comissão do volume extra são custo.
 
 Quando a Black Friday faz mais sentido: se você não vai operar na Tickmill este mês. E se já contratou o plano anual, o TradingView só reembolsa em até 14 dias corridos após o pagamento.
 
 Corre lá e abra sua conta, link está na minha bio.
 
-Fontes: tickmill.com ("Planos Grátis do TradingView") e br.tradingview.com/pricing, consultadas em 23/11/2026. Preços do TradingView em dólar (US$ 12,95, 29,95 e 59,95 por mês, cobrança anual), convertidos a R$ 5,9762 (USD/BRL de 23/11/2026), sem impostos. A Tickmill pode alterar ou encerrar a oferta sem aviso.
+Fontes: tickmill.com ("Planos Grátis do TradingView") e br.tradingview.com/pricing, consultadas em 23/11/2026. Preços do TradingView em dólar (US$ 12,95, 29,95 e 59,95 por mês, cobrança anual), convertidos a R$ 5,9762 (USD/BRL de 23/11/2026), sem impostos. Lote = risco ÷ (stop × US$ 10). A Tickmill pode alterar ou encerrar a oferta sem aviso.
 
 Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
 
