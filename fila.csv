@@ -6,9 +6,9 @@ reel3-payroll,2026-12-03,19:30,reel,internacional,Reel 3: o que o payroll faz co
 cal-eco,2026-12-08,19:30,carrossel,internacional,Calendário econômico: quando o preço se mexe,v8/forex-calendario-economico,n/a,pronto,"Véspera do Fed (09/12, 16h) e do Copom (09/12). Cite na legenda."
 reel5-fed,2026-12-09,11:00,reel,internacional,Reel 5: o Fed e o EUR/USD,reels/reel5-fed,pendente,aguarda voz,Vídeo pronto com as 8 decisões até 28/10. Postar de manhã (11h): decisão às 16h. Única exceção de dia.
 e4,2026-12-15,19:30,carrossel,internacional,Alavancagem,v8/forex-alavancagem,n/a,pronto,Na fila automática (19h30). Reel de quinta repete o tema em 30 segundos.
-reel6-alavancagem,2026-12-17,19:30,reel,internacional,Reel 6: a alavancagem máxima e o seu stop,reels/reel6-alavancagem,pendente,aguarda voz,Vídeo pronto (novo). Recorte do carrossel de terça.
+reel-calendario,2026-12-17,19:30,reel,internacional,Reel: a hora do Fed no EUR/USD,reels/reel-calendario,pendente,aguarda voz,"Vídeo pronto. Antes de postar, rode de novo com a decisão de 09/12 (9 decisões)"
 risco,2026-12-22,19:30,carrossel,internacional,Gestão de risco: sequência de perdas,v5/gestao-de-risco,n/a,pronto,"Semana do Natal: ritmo leve, sem mudar o horário."
-reel-calendario,2026-12-24,19:30,reel,internacional,Reel: a hora do Fed no EUR/USD,reels/reel-calendario,pendente,aguarda voz,"Vídeo pronto (novo). Véspera de Natal: alcance tende a cair, post leve."
+livre-2026-12-24,2026-12-24,19:30,reel,livre,Espaço livre: reel do momento (véspera de Natal),,n/a,produzir,"Vaga aberta pela exclusão do reel de alavancagem. Se não houver voz, publique um carrossel da reserva ou pule a semana."
 e5,2026-12-29,19:30,carrossel,internacional,Sessões: quando o forex se move,v8/forex-sessoes,n/a,pronto,Fecha a série educativa. Reel de quinta traz o relógio do EUR/USD.
 reel2-relogio,2026-12-31,19:30,reel,internacional,Reel 2: o relógio do EUR/USD,reels/reel2-relogio,pendente,aguarda voz,"Vídeo pronto. Fim de ano, ritmo leve."
 forex-tradingview-gratis,2027-01-05,19:30,carrossel,internacional,TradingView sem mensalidade pela Tickmill,v8/forex-tradingview-gratis,n/a,atualizar dados,Confira a página da Tickmill no dia e atualize preço e câmbio. A meta de lotes zera todo mês.
