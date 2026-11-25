@@ -1,6 +1,6 @@
 id,data,hora_brt,formato,trilha,titulo,fonte_local,voz,status,nota
 e2,2026-11-24,19:30,carrossel,internacional,O que saber antes de operar forex,v8/forex-antes-de-operar,n/a,publicado,"Na fila automática (19h30). O post 1 ""O que é o mercado de forex?"" foi ao ar em 21/11, como teste."
-reel1,2026-11-26,19:30,reel,internacional,Reel 1: 5 perdas seguidas são normais,reels/reel1,pendente,aguarda voz,"Vídeo pronto. Combina com o carrossel de ontem (risco). Voz até 26/11, 17h; sem voz, entra o carrossel E3 no lugar."
+reel1,2026-11-26,19:30,reel,internacional,Reel 1: 5 perdas seguidas são normais,reels/reel1,recebida,aguarda voz,"Vídeo pronto. Combina com o carrossel de ontem (risco). Voz até 26/11, 17h; sem voz, entra o carrossel E3 no lugar."
 e3,2026-12-01,19:30,carrossel,internacional,Como ler uma cotação,v8/forex-cotacao,n/a,atualizar dados,O slide 1 usa a cotação de 20/11. Troque pela do dia 30/11 e agende.
 reel3-payroll,2026-12-03,19:30,reel,internacional,Reel 3: o que o payroll faz com o EUR/USD,reels/reel3-payroll,pendente,aguarda voz,"Vídeo pronto, com os 11 payrolls de 2026. Payroll sai amanhã (04/12, 10h30): o gancho ""amanhã tem payroll"" vale como está."
 cal-eco,2026-12-08,19:30,carrossel,internacional,Calendário econômico: quando o preço se mexe,v8/forex-calendario-economico,n/a,pronto,"Véspera do Fed (09/12, 16h) e do Copom (09/12). Cite na legenda."
