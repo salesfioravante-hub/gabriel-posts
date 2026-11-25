@@ -1,0 +1,15 @@
+Com 50% de acerto, cinco perdas seguidas aparecem em 81% das sequências de 100 trades. Com sete, em 32%. É conta, não azar.
+
+O que importa é o tamanho da perda quando a sequência vem. Com 1% de risco por operação, sete perdas custam 6,8% da conta. Com 5%, custam 30,2%, e a recuperação exige 43,2%.
+
+Por isso o lote sai do stop: com risco de 1% da conta e stop de 17,8 pips, o lote é pequeno e proporcional. Numa conta de US$ 500, são cerca de 0,028 lote no EUR/USD (na prática, 0,03).
+
+Salve este vídeo e calcule o lote do seu próximo trade.
+
+Corre lá e abra sua conta, link está na minha bio.
+
+A sequência de 100 trades do vídeo é uma simulação. As probabilidades são exatas, sem custos (acerto de 50%, trades independentes).
+
+Conteúdo educacional, sem recomendação de investimento. Operar cripto e forex envolve risco de perda total do capital.
+
+#forex #gestaoderisco #trading #tradingbrasil #riscoretorno

@@ -4,6 +4,8 @@ Regra inegociável: não publicar nada sem a autorização explícita do Gabriel
 
 ## Passo a passo às 19h
 
+Status `agendado` na fila = o Gabriel já autorizou aquele post e existe um gatilho de publicação marcado. Não peça autorização de novo: confirme em uma linha que o gatilho está ativo (`list_triggers`) e que os arquivos estão no repo.
+
 1. `cd /home/user/gabriel-posts && git pull -q origin main && python3 scripts/proximo_post.py`
 2. Sem post hoje, sem atrasado e sem reel com voz pendente nos próximos 3 dias: não enviar nada.
 3. **Carrossel de hoje**
