@@ -10,7 +10,7 @@ Exemplo com candles reais do EUR/USD: 0,56 lote, stop de 17,8 pips, risco de US$
 
 O spread de 1 pip é hipotético: o real varia por corretora, par e horário.
 
-Salve este post. No próximo: alavancagem.
+Salve este post.
 
 Fonte: TradingView, cotações de 20/11/2026.
 
