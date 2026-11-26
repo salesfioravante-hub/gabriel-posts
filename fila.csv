@@ -2,40 +2,40 @@ id,data,hora_brt,formato,trilha,titulo,fonte_local,voz,status,nota
 e2,2026-11-24,19:30,carrossel,internacional,O que saber antes de operar forex,v8/forex-antes-de-operar,n/a,publicado,"Na fila automática (19h30). O post 1 ""O que é o mercado de forex?"" foi ao ar em 21/11, como teste."
 reel1,2026-11-26,19:30,reel,internacional,Reel 1: 5 perdas seguidas são normais,reels/reel1,recebida,agendado,"Vídeo pronto. Combina com o carrossel de ontem (risco). Voz até 26/11, 17h; sem voz, entra o carrossel E3 no lugar."
 e3,2026-12-01,19:30,carrossel,internacional,Como ler uma cotação,v8/forex-cotacao,n/a,atualizar dados,O slide 1 usa a cotação de 20/11. Troque pela do dia 30/11 e agende.
-reel3-payroll,2026-12-03,19:30,reel,internacional,Reel 3: o que o payroll faz com o EUR/USD,reels/reel3-payroll,pendente,aguarda voz,"Vídeo pronto, com os 11 payrolls de 2026. Payroll sai amanhã (04/12, 10h30): o gancho ""amanhã tem payroll"" vale como está."
+reel3-payroll,2026-12-03,19:30,reel,internacional,Reel 3: o que o payroll faz com o EUR/USD,reels/reel3-payroll,recebida,aguarda voz,"Vídeo pronto, com os 11 payrolls de 2026. Payroll sai amanhã (04/12, 10h30): o gancho ""amanhã tem payroll"" vale como está."
 cal-eco,2026-12-08,19:30,carrossel,internacional,Calendário econômico: quando o preço se mexe,v8/forex-calendario-economico,n/a,pronto,"Véspera do Fed (09/12, 16h) e do Copom (09/12). Cite na legenda."
-reel5-fed,2026-12-09,11:00,reel,internacional,Reel 5: o Fed e o EUR/USD,reels/reel5-fed,pendente,aguarda voz,Vídeo pronto com as 8 decisões até 28/10. Postar de manhã (11h): decisão às 16h. Única exceção de dia.
+reel5-fed,2026-12-09,11:00,reel,internacional,Reel 5: o Fed e o EUR/USD,reels/reel5-fed,recebida,aguarda voz,Vídeo pronto com as 8 decisões até 28/10. Postar de manhã (11h): decisão às 16h. Única exceção de dia.
 e4,2026-12-15,19:30,carrossel,internacional,Alavancagem,v8/forex-alavancagem,n/a,pronto,Na fila automática (19h30). Reel de quinta repete o tema em 30 segundos.
 reel-calendario,2026-12-17,19:30,reel,internacional,Reel: a hora do Fed no EUR/USD,reels/reel-calendario,pendente,aguarda voz,"Vídeo pronto. Antes de postar, rode de novo com a decisão de 09/12 (9 decisões)"
 risco,2026-12-22,19:30,carrossel,internacional,Gestão de risco: sequência de perdas,v5/gestao-de-risco,n/a,pronto,"Semana do Natal: ritmo leve, sem mudar o horário."
 livre-2026-12-24,2026-12-24,19:30,reel,livre,Espaço livre: reel do momento (véspera de Natal),,n/a,produzir,"Vaga aberta pela exclusão do reel de alavancagem. Se não houver voz, publique um carrossel da reserva ou pule a semana."
 e5,2026-12-29,19:30,carrossel,internacional,Sessões: quando o forex se move,v8/forex-sessoes,n/a,pronto,Fecha a série educativa. Reel de quinta traz o relógio do EUR/USD.
-reel2-relogio,2026-12-31,19:30,reel,internacional,Reel 2: o relógio do EUR/USD,reels/reel2-relogio,pendente,aguarda voz,"Vídeo pronto. Fim de ano, ritmo leve."
+reel2-relogio,2026-12-31,19:30,reel,internacional,Reel 2: o relógio do EUR/USD,reels/reel2-relogio,recebida,aguarda voz,"Vídeo pronto. Fim de ano, ritmo leve."
 forex-tradingview-gratis,2027-01-05,19:30,carrossel,internacional,TradingView sem mensalidade pela Tickmill,v8/forex-tradingview-gratis,n/a,atualizar dados,Confira a página da Tickmill no dia e atualize preço e câmbio. A meta de lotes zera todo mês.
 reel-tradingview,2027-01-07,19:30,reel,internacional,Reel: TradingView sem mensalidade pela Tickmill,reels/reel-tradingview,pendente,atualizar dados,"Vídeo pronto (novo) com a página de 20/11. Reconfira condições, preço e câmbio antes de gravar a voz."
 b3-pregao-por-hora,2027-01-12,19:30,carrossel,nacional,O pregão da B3 por hora: mini índice e mini dólar,v8/b3-pregao-por-hora,n/a,pronto,Abre a trilha nacional.
-reelN1-pregao,2027-01-14,19:30,reel,nacional,Reel nacional: o pregão por hora,reels/reelN1-pregao,pendente,aguarda voz,Vídeo pronto. Recorte do carrossel de terça.
+reelN1-pregao,2027-01-14,19:30,reel,nacional,Reel nacional: o pregão por hora,reels/reelN1-pregao,recebida,aguarda voz,Vídeo pronto. Recorte do carrossel de terça.
 pin-bar,2027-01-19,19:30,carrossel,internacional,Pin bar de alta,v5/pin-bar,n/a,pronto,Recorte em Reel na quinta.
-reel4-pinbar,2027-01-21,19:30,reel,internacional,Reel 4: pin bar contra qualquer candle,reels/reel4-pinbar,pendente,aguarda voz,Vídeo pronto. Recorte do carrossel de terça.
+reel4-pinbar,2027-01-21,19:30,reel,internacional,Reel 4: pin bar contra qualquer candle,reels/reel4-pinbar,recebida,aguarda voz,Vídeo pronto. Recorte do carrossel de terça.
 b3-ipca,2027-01-26,19:30,carrossel,nacional,O IPCA mexe com o mini dólar tanto quanto um dia comum,v8/b3-ipca,n/a,pronto,Dados do IPCA de 12/11. Rode de novo com o IPCA mais recente.
 reelN2-ipca,2027-01-28,19:30,reel,nacional,Reel nacional: o IPCA e o mini dólar,reels/reelN2-ipca,pendente,atualizar dados,Vídeo com o IPCA de 12/11. Troque pelo mais recente e rode as divulgações de novo antes de gravar.
 forex-plano-demo,2027-02-02,19:30,carrossel,internacional,Plano de trade e conta demo,v8/forex-plano-demo,n/a,pronto,Primeiro carrossel com o link da Tickmill. Prepare o comentário-chave.
-reel-engolfo,2027-02-04,19:30,reel,internacional,Reel: o engolfo de alta funciona?,reels/reel-engolfo,pendente,aguarda voz,Vídeo pronto (novo).
+reel-engolfo,2027-02-04,19:30,reel,internacional,Reel: o engolfo de alta funciona?,reels/reel-engolfo,recebida,aguarda voz,Vídeo pronto (novo).
 forex-tickmill,2027-02-09,19:30,carrossel,internacional,"O que a Tickmill oferece, em números",v8/forex-tickmill,n/a,atualizar dados,"Confira no dia o mínimo, a comissão e o spread."
-reel-tres-padroes,2027-02-11,19:30,reel,internacional,"Reel: três padrões de candle, o mesmo resultado",reels/reel-tres-padroes,pendente,aguarda voz,"Vídeo pronto (novo). Junta pin bar, engolfo e inside bar."
+reel-tres-padroes,2027-02-11,19:30,reel,internacional,"Reel: três padrões de candle, o mesmo resultado",reels/reel-tres-padroes,recebida,aguarda voz,"Vídeo pronto (novo). Junta pin bar, engolfo e inside bar."
 b3-selic-bolsa,2027-02-16,19:30,carrossel,nacional,"A Selic explica só 4,5% do que o Ibovespa faz em um mês",v8/b3-selic-bolsa,n/a,pronto,
-reelN-selic-bolsa,2027-02-18,19:30,reel,nacional,"Reel nacional: a Selic explica só 4,5% da Bolsa",reels/reelN-selic-bolsa,pendente,aguarda voz,Vídeo pronto (novo).
+reelN-selic-bolsa,2027-02-18,19:30,reel,nacional,"Reel nacional: a Selic explica só 4,5% da Bolsa",reels/reelN-selic-bolsa,recebida,aguarda voz,Vídeo pronto (novo).
 sala-metodo,2027-02-23,19:30,carrossel,sala,"O método da sala: plano, risco, registro e revisão",v8/sala-metodo,n/a,pronto,"Post da trilha Sala: CTA ""sala"" nos comentários."
-reelS-calendario,2027-02-25,19:30,reel,sala,Reel da sala: nem todo evento pesa igual,reels/reelS-calendario,pendente,aguarda voz,"Vídeo pronto (novo). CTA: comentar ""sala""."
+reelS-calendario,2027-02-25,19:30,reel,sala,Reel da sala: nem todo evento pesa igual,reels/reelS-calendario,recebida,aguarda voz,"Vídeo pronto (novo). CTA: comentar ""sala""."
 forex-x-cripto,2027-03-02,19:30,carrossel,internacional,Forex x cripto,v8/forex-x-cripto,n/a,pronto,"Amplitude diária e movimento contra a posição, BTC e EUR/USD."
 reel-forex-cripto,2027-03-04,19:30,reel,internacional,"Reel: o Bitcoin se mexe 6,7 vezes mais que o EUR/USD",reels/reel-forex-cripto,pendente,aguarda voz,Vídeo pronto (novo). Recorte do carrossel de terça.
 b3-mini-dolar-comercial,2027-03-09,19:30,carrossel,nacional,O mini dólar custa em média 20 pontos acima do comercial,v8/b3-mini-dolar-comercial,n/a,pronto,Mercado nacional: cite o vencimento do mês.
-reelN-mini-dolar,2027-03-11,19:30,reel,nacional,Reel nacional: o mini dólar custa 20 pontos acima do comercial,reels/reelN-mini-dolar,pendente,aguarda voz,Vídeo pronto (novo).
+reelN-mini-dolar,2027-03-11,19:30,reel,nacional,Reel nacional: o mini dólar custa 20 pontos acima do comercial,reels/reelN-mini-dolar,recebida,aguarda voz,Vídeo pronto (novo).
 b3-ibov-dolar,2027-03-16,19:30,carrossel,nacional,"Quando o dólar sobe, o Ibovespa cai em 7 de cada 10 semanas",v8/b3-ibov-dolar,n/a,pronto,Véspera do Copom (17 e 18/03).
 reelN3-copom,2027-03-18,19:30,reel,nacional,Reel nacional: hoje o Copom decide,reels/reelN3-copom,pendente,atualizar dados,Vídeo pronto. Confirme a data e rode com as reuniões de dezembro e janeiro (9 reuniões).
 b3-juro-dolar,2027-03-23,19:30,carrossel,nacional,"Na semana de alta do juro de 10 anos, o dólar sobe em 82%",v8/b3-juro-dolar,n/a,pronto,
-reelN-ibov-dolar,2027-03-25,19:30,reel,nacional,"Reel nacional: dólar sobe, Bolsa cai em 7 de cada 10 semanas",reels/reelN-ibov-dolar,pendente,aguarda voz,"Vídeo pronto (novo), sobre dólar e Ibovespa."
+reelN-ibov-dolar,2027-03-25,19:30,reel,nacional,"Reel nacional: dólar sobe, Bolsa cai em 7 de cada 10 semanas",reels/reelN-ibov-dolar,recebida,aguarda voz,"Vídeo pronto (novo), sobre dólar e Ibovespa."
 b3-ibov-nova-york,2027-03-30,19:30,carrossel,nacional,Nova York explica 37% do que o Ibovespa faz por semana,v8/b3-ibov-nova-york,n/a,pronto,
-reelN-juro-dolar,2027-04-01,19:30,reel,nacional,"Reel nacional: juro de 10 anos sobe, dólar sobe",reels/reelN-juro-dolar,pendente,aguarda voz,Vídeo pronto (novo).
+reelN-juro-dolar,2027-04-01,19:30,reel,nacional,"Reel nacional: juro de 10 anos sobe, dólar sobe",reels/reelN-juro-dolar,recebida,aguarda voz,Vídeo pronto (novo).
 sala-retrospectiva,2027-04-06,19:30,carrossel,sala,O que medimos em 4 meses de estudos,v8/sala-retrospectiva,n/a,pronto,"Retrospectiva dos achados, em cinco mercados. Atualize se algum número mudar."
-reelN-ibov-ny,2027-04-08,19:30,reel,nacional,Reel nacional: Nova York explica 37% da Bolsa,reels/reelN-ibov-ny,pendente,aguarda voz,Vídeo pronto (novo).
+reelN-ibov-ny,2027-04-08,19:30,reel,nacional,Reel nacional: Nova York explica 37% da Bolsa,reels/reelN-ibov-ny,recebida,aguarda voz,Vídeo pronto (novo).
