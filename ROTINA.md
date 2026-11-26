@@ -26,6 +26,15 @@ Status `agendado` na fila = o Gabriel já autorizou aquele post e existe um gati
 - Informar o permalink. `python3 scripts/proximo_post.py --marcar <id> status publicado`, commit e push do `fila.csv` e do `scripts/fila_log.json`.
 - "Pular": marcar `pulado`. "Trocar": propor outro post da reserva (carrosséis fora do calendário) e atualizar o `fila.csv`.
 
+
+## Checagem obrigatória antes de pedir autorização
+
+Nunca apresentar um post sem esta conferência, para não cometer gafes:
+1. **Eventos de mercado (Fed, Copom, payroll, CPI, IPCA, PIB e afins):** confirmar a data e a hora no calendário econômico (`mcp-tv-get-economic-calendar`, que cobre cerca de 31 dias à frente; para mais longe, Fed em federalreserve.gov, Copom no BCB e IPCA no IBGE). Post que fala de um evento só vai ao ar no dia da decisão ou divulgação, ou na véspera quando o texto diz "amanhã". Se a data não bate, não postar: propor o dia certo.
+2. **Texto no tempo certo:** "hoje", "amanhã", "ontem" e "última decisão" precisam valer no dia da postagem. Rodar de novo a medição se houve um evento novo desde a última.
+3. **Dados com data de validade:** cotações, preços de tabela, condições da Tickmill e números de câmbio são conferidos no dia (página oficial ou TradingView).
+4. **Horário:** conferir o horário em Brasília e a diferença do horário de verão dos EUA.
+
 ## Postagens fora da fila
 
 Posts que o Gabriel faz sozinho (por exemplo, a Black Friday) não entram na fila. Se ele disser que postou algo que estava na fila, marque `publicado`.
