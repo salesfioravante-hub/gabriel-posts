@@ -11,13 +11,14 @@ IG='17841400742616978';B='https://graph.facebook.com/v21.0/'
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ST=os.path.join(ROOT,'scripts','auto_state.json');LEADS=os.path.join(ROOT,'scripts','leads_local.csv')
 EU='gabriel.fioravante'
-DM_BFR=("Oi! Aqui é o Gabriel. Passo a passo para acompanhar com a BFR:\n"
-"1. Entre na XP pelo site (portal.xpi.com.br), no navegador.\n"
+DM_BFR=("Oi! Aqui é o Gabriel. Passo a passo para trocar para a BFR:\n"
+"1. Login na XP pelo site (portal.xpi.com.br), no navegador. Pelo app não é possível.\n"
 "2. Atendimento > Troque de assessor > Alterar.\n"
-"3. No campo Assessor, use o código 67544 e clique em Enviar informações.\n"
-"Ainda não é cliente? Abra a conta com a BFR: https://cadastro.xpi.com.br/v3/cadastro/nome?assessor=A67544\n"
-"Condições do trader, por mês até o último dia útil: Profit PRO operando 1 mini contrato, módulo de Automação da Nelogica operando 11 minis, corretagem zero em futuros e atendimento exclusivo. São condições da BFR e podem mudar.\n"
-"Quer ajuda com a troca? Responda aqui com seu nome e quantos minis você opera.")
+"3. Motivo: o mais adequado, e no texto: \"Assessoria especializada, relacionamento com o assessor solicitado\".\n"
+"4. Assessor: 67544 - Lenon Rissardi. Clique em Enviar informações.\n"
+"Ainda não é cliente? Abra a conta: https://cadastro.xpi.com.br/v3/cadastro/nome?assessor=A67544\n"
+"Condições do trader, por mês: Profit PRO com 1 mini, Automação da Nelogica com 11 minis, corretagem zero em futuros. Podem mudar.\n"
+"Me responda aqui com seu nome e quantos minis você opera.")
 PUB_BFR="Te enviei o passo a passo no direct. Se não chegou, me chama lá."
 REGRAS=[(re.compile(r'\bbfr\b',re.I),'bfr',DM_BFR,PUB_BFR)]
 assert len(DM_BFR.encode('utf-8'))<=1000,len(DM_BFR.encode('utf-8'))
