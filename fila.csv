@@ -6,13 +6,13 @@ reel3-payroll,2026-12-03,19:30,reel,internacional,Reel 3: o que o payroll faz co
 cal-eco,2026-12-08,19:30,carrossel,internacional,Calendário econômico: quando o preço se mexe,v8/forex-calendario-economico,n/a,pronto,Confirmado em 26/11: Fed dia 09/12 às 16h e Copom dia 09/12 (decisão às 18h30). Cite na legenda.
 reel5-fed,2026-12-09,11:00,reel,internacional,Reel 5: o Fed e o EUR/USD,reels/reel5-fed,recebida,aguarda voz,"Vídeo pronto com as 8 decisões até 28/10. Fed confirmado para 09/12, 16h (TradingView, 26/11). Postar às 11h, no dia da decisão. Única exceção de dia."
 e4,2026-12-15,19:30,carrossel,internacional,Alavancagem,v8/forex-alavancagem,n/a,pronto,Na fila automática (19h30). Reel de quinta repete o tema em 30 segundos.
-livre-2026-12-17,2026-12-17,19:30,reel,livre,Vaga livre: reel de formato novo,,n/a,produzir,"Sugestão: replay da reação do mercado à decisão de 09/12 (Fed e Copom). O reel ""A hora do Fed"" não tem evento nesta data e saiu."
+reel-mapa-calor,2026-12-17,19:30,reel,internacional,Mapa de calor: quando o EUR/USD anda,reels/reel-mapa-calor,pendente,aguarda voz,Vídeo pronto. Narração de venda do Gabriel. Dados de 10/2025 a 11/2026: rodar de novo se passar de 2 meses.
 risco,2026-12-22,19:30,carrossel,internacional,Gestão de risco: sequência de perdas,v5/gestao-de-risco,n/a,pronto,"Semana do Natal: ritmo leve, sem mudar o horário."
-livre-2026-12-24,2026-12-24,19:30,reel,livre,Espaço livre: reel do momento (véspera de Natal),,n/a,produzir,"Vaga aberta pela exclusão do reel de alavancagem. Se não houver voz, publique um carrossel da reserva ou pule a semana."
+reel-mapa-calor-ouro,2026-12-24,19:30,reel,internacional,Mapa de calor: quando o ouro anda,reels/reel-mapa-calor-ouro,pendente,aguarda voz,Vídeo pronto. Véspera de Natal: alcance tende a cair. Dá para trocar de lugar com outro mapa.
 e5,2026-12-29,19:30,carrossel,internacional,Sessões: quando o forex se move,v8/forex-sessoes,n/a,pronto,Fecha a série educativa. Reel de quinta traz o relógio do EUR/USD.
 reel2-relogio,2026-12-31,19:30,reel,internacional,Reel 2: o relógio do EUR/USD,reels/reel2-relogio,recebida,aguarda voz,"Vídeo pronto. Fim de ano, ritmo leve."
 livre-2027-01-05,2027-01-05,19:30,carrossel,livre,Vaga livre: carrossel de formato novo,,n/a,produzir,TradingView grátis saiu da fila (o Gabriel postou à mão). Vaga para um tema novo.
-livre-2027-01-07,2027-01-07,19:30,reel,livre,Vaga livre: reel de formato novo,,n/a,produzir,TradingView grátis saiu da fila. Payroll de janeiro: confirmar a data no calendário econômico.
+reel-mapa-calor-us30,2027-01-07,19:30,reel,internacional,Mapa de calor: quando o US30 anda,reels/reel-mapa-calor-us30,pendente,aguarda voz,Vídeo pronto. Confirme a data do payroll de janeiro no calendário antes de postar.
 b3-pregao-por-hora,2027-01-12,19:30,carrossel,nacional,O pregão da B3 por hora: mini índice e mini dólar,v8/b3-pregao-por-hora,n/a,pronto,Abre a trilha nacional.
 reelN1-pregao,2027-01-14,19:30,reel,nacional,Reel nacional: o pregão por hora,reels/reelN1-pregao,recebida,aguarda voz,Vídeo pronto. Recorte do carrossel de terça.
 pin-bar,2027-01-19,19:30,carrossel,internacional,Pin bar de alta,v5/pin-bar,n/a,pronto,Recorte em Reel na quinta.
@@ -28,7 +28,7 @@ reelN-selic-bolsa,2027-02-18,19:30,reel,nacional,"Reel nacional: a Selic explica
 sala-metodo,2027-02-23,19:30,carrossel,sala,"O método da sala: plano, risco, registro e revisão",v8/sala-metodo,n/a,pronto,"Post da trilha Sala: CTA ""sala"" nos comentários."
 reelS-calendario,2027-02-25,19:30,reel,sala,Reel da sala: nem todo evento pesa igual,reels/reelS-calendario,recebida,aguarda voz,"Vídeo pronto (novo). CTA: comentar ""sala""."
 forex-x-cripto,2027-03-02,19:30,carrossel,internacional,Forex x cripto,v8/forex-x-cripto,n/a,pronto,"Amplitude diária e movimento contra a posição, BTC e EUR/USD."
-livre-2027-03-04,2027-03-04,19:30,reel,livre,Vaga livre: reel de formato novo,,n/a,produzir,O reel de Bitcoin x EUR/USD foi excluído.
+reel-mapa-calor-ustec,2027-03-04,19:30,reel,internacional,Mapa de calor: quando o USTEC anda,reels/reel-mapa-calor-ustec,pendente,aguarda voz,Vídeo pronto.
 b3-mini-dolar-comercial,2027-03-09,19:30,carrossel,nacional,O mini dólar custa em média 20 pontos acima do comercial,v8/b3-mini-dolar-comercial,n/a,pronto,Mercado nacional: cite o vencimento do mês.
 reelN-mini-dolar,2027-03-11,19:30,reel,nacional,Reel nacional: o mini dólar custa 20 pontos acima do comercial,reels/reelN-mini-dolar,recebida,aguarda voz,Vídeo pronto (novo).
 b3-ibov-dolar,2027-03-16,19:30,carrossel,nacional,"Quando o dólar sobe, o Ibovespa cai em 7 de cada 10 semanas",v8/b3-ibov-dolar,n/a,pronto,Confirme antes as datas do Copom e do FOMC de março (BCB e Fed).
