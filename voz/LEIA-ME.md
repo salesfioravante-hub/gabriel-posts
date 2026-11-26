@@ -7,11 +7,11 @@ Um arquivo por reel, com o nome do reel (`<id>.m4a`), mais as três chamadas pad
 | reel5-fed.m4a | O Fed e o EUR/USD, candle a candle | 09/12 (11h) |
 | reel3-payroll.m4a | O que o payroll faz com o EUR/USD | 03/12 |
 | reel2-relogio.m4a | O relógio do EUR/USD | 31/12 |
-| reelN1-pregao.m4a | O pregão da B3 por hora | 14/01 |
+| reelN1-pregao.m4a | O pregão da B3 por hora | reserva (o mapa de calor do WIN ocupou 14/01) |
 | reel4-pinbar.m4a | Pin bar contra qualquer candle | 21/01 |
 | reel-engolfo.m4a | O engolfo de alta funciona? | 04/02 |
 | reel-tres-padroes.m4a | Três padrões de candle | 11/02 |
-| reelN-selic-bolsa.m4a | A Selic explica só 4,5% da Bolsa | 18/02 |
+| reelN-selic-bolsa.m4a | A Selic explica só 4,5% da Bolsa | reserva (o mapa de calor do WDO ocupou 18/02) |
 | reelS-calendario.m4a | Nem todo evento pesa igual (sala) | 25/02 |
 | reelN-mini-dolar.m4a | O mini dólar acima do comercial | 11/03 |
 | reelN-ibov-dolar.m4a | Dólar sobe, Bolsa cai | 25/03 |
